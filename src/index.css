@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("./fundo.png");  
+  background-size: cover;           
+  background-position: center; 
+  background-repeat: no-repeat;   
+  background-attachment: fixed;       
+  padding: 20px;
+  padding-top: 80px;
+  min-height: 100vh;                 
+}

@@ -1,0 +1,29 @@
+.navbar {
+  width: 100%;
+  padding: 16px 32px;
+  background: #000000;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  position: fixed;     
+  top: 0;             
+  left: 0;
+  z-index: 1000;       
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.titulo {
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+}
+.logo-img {
+  height: 70px;  
+}
