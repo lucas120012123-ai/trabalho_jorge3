@@ -4,7 +4,7 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Lucas Paiva:
 
-(Correção de bugs,stelização do site,criação do logan e inclusão ao codigo)✅
+(Correção de bugs,estelização do site,criação do logan e inclusão ao codigo)✅
 
 #Caio:
 
