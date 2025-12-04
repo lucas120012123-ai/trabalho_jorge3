@@ -4,16 +4,16 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Lucas Paiva:
 
-(Descreva o que Fez no Projeto)
+(Descreva o que Fez no Projeto)✅
 
 #Caio:
 
-(Descreva o que Fez no Projeto)
+(Descreva o que Fez no Projeto)✅
 
 #Micael Marcos:
 
-(Descreva o que Fez no Projeto)
+(Descreva o que Fez no Projeto)✅
 
 #Jadilson:
 
-(Descrever o que Fez no Projeto)
+(Descrever o que Fez no Projeto)✅
