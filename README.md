@@ -4,16 +4,16 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Lucas Paiva:
 
-(Descreva o que Fez no Projeto)✅
+(Correção de bugs,estelização do site,criação do logan e inclusão ao codigo)✅
 
 #Caio:
 
-(Descreva o que Fez no Projeto)✅
+(Integração da API com o FrontEnd)✅
 
 #Micael Marcos:
 
-(Descreva o que Fez no Projeto)✅
+(Desenvolvi a estrutura da barra de navegação (NavBar) e implementei o campo de entrada de dados (input) responsável por receber o valor numérico do CNPJ.)✅
 
-#Jadilson:
+#Jadilson Ferreira:
 
-(Descrever o que Fez no Projeto)✅
+(Criei a API baseada no arquivo Json enviado)✅

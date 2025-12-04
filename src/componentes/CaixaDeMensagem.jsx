@@ -1,3 +1,15 @@
+/*
+  Componente CaixaDeMensagem:
+
+  - Utiliza dois estados: mensagem (campo digitado) e mensagemFinal (valor exibido).
+  - Ao clicar em "Consultar", transfere o conteúdo digitado para mensagemFinal
+    e limpa o input.
+  - O campo só aceita números e limita o CNPJ a 14 caracteres.
+  - Exibe uma confirmação abaixo após o envio.
+  - Estilização feita inline para centralizar o conteúdo e manter um visual simples.
+*/
+
+
 import { useState } from "react";
 import { apiService } from "../services/apiService";
 

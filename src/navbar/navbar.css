@@ -1,3 +1,12 @@
+/*
+  Estilos da barra de navegação (Navbar).
+
+  - Define a barra como fixa no topo, ocupando toda a largura,com fundo preto e texto branco.
+  - Utiliza flexbox para alinhar logo e título de forma organizada.
+  - Ajusta o tamanho da logo e o estilo do texto do título.
+  - Garante que a Navbar fique sempre visível usando z-index alto.
+*/
+
 .navbar {
   width: 100%;
   padding: 16px 32px;
