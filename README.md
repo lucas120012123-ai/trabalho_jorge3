@@ -12,7 +12,7 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Micael Marcos:
 
-(Eu fiz a parte da NavBar e a Questão da entrada de Dados/Input  que recebe o valores númerico do Cnpj)✅
+(Desenvolvi a estrutura da barra de navegação (NavBar) e implementei o campo de entrada de dados (input) responsável por receber o valor numérico do CNPJ.)✅
 
 #Jadilson:
 
