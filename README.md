@@ -14,6 +14,6 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 (Desenvolvi a estrutura da barra de navegação (NavBar) e implementei o campo de entrada de dados (input) responsável por receber o valor numérico do CNPJ.)✅
 
-#Jadilson:
+#Jadilson Ferreira:
 
-(Descrever o que Fez no Projeto)✅
+(Criei a API baseada no arquivo Json enviado)✅
