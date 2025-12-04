@@ -1,16 +1,19 @@
-# React + Vite
+## Contribuições De Cada Membro do grupo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no trabalho final. Cada ideia compartilhada, cada tarefa realizada e cada ajuda oferecida faz diferença. Quando todos colaboram de verdade, o projeto deixa de ser apenas uma obrigação e vira algo construído junto, onde cada um contribui com seu jeito, seu ritmo e suas habilidades. Valorizar essas participações é reconhecer que ninguém faz nada sozinho — é o esforço coletivo que torna o resultado possível.
 
-Currently, two official plugins are available:
+#Lucas Paiva:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(Descreva o que Fez no Projeto)
 
-## React Compiler
+#Caio:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+(Descreva o que Fez no Projeto)
 
-## Expanding the ESLint configuration
+#Micael Marcos:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(Descreva o que Fez no Projeto)
+
+#Jadilson:
+
+(Descrever o que Fez no Projeto)
