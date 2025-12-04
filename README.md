@@ -4,7 +4,7 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Lucas Paiva:
 
-(Descreva o que Fez no Projeto)✅
+(Correção de bugs,stelização do site,criação do logan e inclusão ao codigo)✅
 
 #Caio:
 
