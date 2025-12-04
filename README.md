@@ -8,7 +8,7 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Caio:
 
-(Descreva o que Fez no Projeto)✅.
+(Integração da API com o FrontEnd)✅
 
 #Micael Marcos:
 
