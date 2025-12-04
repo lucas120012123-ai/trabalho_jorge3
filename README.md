@@ -12,7 +12,7 @@ Em qualquer projeto em grupo, cada pessoa acaba deixando um pouco de si no traba
 
 #Micael Marcos:
 
-(Descreva o que Fez no Projeto)✅
+(Eu fiz a parte da NavBar e a Questão da entrada de Dados/Input  que recebe o valores númerico do Cnpj)✅
 
 #Jadilson:
 
